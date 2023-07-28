@@ -1,0 +1,41 @@
+MODEL hESCNet
+>> prosentvisOverlapp(iranGenes_H, replicate1, replicate2, replicateOverlap);
+Overlap of replicate1: 51.254480%
+Overlap of replicate2: 47.610514%
+Overlap of replicate overlap: 43.488650%
+
+MODEL BG01
+>> prosentvisOverlapp(chinaGenesBG01_H, replicate1, replicate2, replicateOverlap);
+Overlap of replicate1: 60.996646%
+Overlap of replicate2: 59.750839%
+Overlap of replicate overlap: 53.042645%
+
+MODEL H1
+>> prosentvisOverlapp(chinaGenesH1_H, replicate1, replicate2, replicateOverlap);
+Overlap of replicate1: 58.004158%
+Overlap of replicate2: 56.091476%
+Overlap of replicate overlap: 49.937630%
+
+MODEL H7
+>> prosentvisOverlapp(chinaGenesH7_H, replicate1, replicate2, replicateOverlap);
+Overlap of replicate1: 61.057269%
+Overlap of replicate2: 59.251101%
+Overlap of replicate overlap: 52.951542%
+
+MODEL H9
+>> prosentvisOverlapp(chinaGenesH9_H, replicate1, replicate2, replicateOverlap);
+Overlap of replicate1: 58.174905%
+Overlap of replicate2: 56.358259%
+Overlap of replicate overlap: 50.147866%
+
+MODEL HES3
+>> prosentvisOverlapp(chinaGenesHES3_H, replicate1, replicate2, replicateOverlap);
+Overlap of replicate1: 59.713168%
+Overlap of replicate2: 58.452847%
+Overlap of replicate overlap: 51.629726%
+
+MODEL SA01
+>> prosentvisOverlapp(chinaGenesSA01_H, replicate1, replicate2, replicateOverlap);
+Overlap of replicate1: 63.391984%
+Overlap of replicate2: 62.023460%
+Overlap of replicate overlap: 55.327468%
