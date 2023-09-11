@@ -177,3 +177,37 @@ sbml_path = "/home/kn/vscode/python3/FBA/autoPac/hESCNet_test.xml"
 project_folder = "/home/kn/vscode/python3/FBA/autoPac/attempt1_folder"
 project_name = "attempt1"
 get_protein_mass_mapping_with_sbml(sbml_path, project_folder,  project_name)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#
